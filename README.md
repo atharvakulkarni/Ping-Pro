@@ -3,6 +3,6 @@ A very little, fun and intuitive game, Built on a few lines of HTML, CSS and JS.
 --------------------------------------------------------------------------------------------------
 This is how it looks like...
 
-![](/Image_Files/figure.ng)
+![](/Image_Files/figure.png)
 
 Have fun...!!!
